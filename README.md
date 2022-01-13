@@ -20,4 +20,4 @@
 |5|[going deeper_10](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_10/GD10_v4_1.ipynb)|10. Transformer로 번역기 만들기|2021-12-31|-|
 |6|[going deeper_12](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_12/GD12_v2_1.ipynb)|12. 번역가는 대화에도 능하다|2022-01-13|-|
 |7|[going deeper_14]()|14. BERT pretrained model 제작|-|-|
-|7|[going deeper_16]()|16. HuggingFace 커스텀 프로젝트 만들기|-|-|
+|8|[going deeper_16]()|16. HuggingFace 커스텀 프로젝트 만들기|-|-|
