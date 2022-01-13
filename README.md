@@ -18,3 +18,4 @@
 |3|[going deeper_06](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_06/GD06_v2_1.ipynb)|6. 임베딩 내 편향성 알아보기|2021-12-20|-|
 |4|[going deeper_08](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_08/GD08_v3_1.ipynb)|8. Seq2seq으로 번역기 만들기|2021-12-27|-|
 |5|[going deeper_10](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_10/GD10_v4_1.ipynb)|10. Transformer로 번역기 만들기|2021-12-31|-|
+|6|[going deeper_12](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_12/GD12_v2_1.ipynb)|12. 번역가는 대화에도 능하다|2022-01-13|-|
