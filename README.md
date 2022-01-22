@@ -7,7 +7,7 @@
 + going deeper 02 ~ 10 등록
 + 2022.01.03: 학습 기간 및 제출일 표시
 ***
-+ 학습 기간: 2021-12-14 ~ (진행 중)
++ 학습 기간: 2021-12-14 ~ 2022-01-23
 
 <br>
 
@@ -20,4 +20,4 @@
 |5|[going deeper_10](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_10/GD10_v4_1.ipynb)|10. Transformer로 번역기 만들기|2021-12-31|-|
 |6|[going deeper_12](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_12/GD12_v2_1.ipynb)|12. 번역가는 대화에도 능하다|2022-01-13|-|
 |7|[going deeper_14](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_14/GD14_v2_2.ipynb)|14. BERT pretrained model 제작|2022-01-18|-|
-|8|[going deeper_16]()|16. HuggingFace 커스텀 프로젝트 만들기|-|-|
+|8|[going deeper_16](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper/blob/main/going_deeper_14/GD16_v3_1.ipynb)|16. HuggingFace 커스텀 프로젝트 만들기|2022-01-23|-|
